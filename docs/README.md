@@ -44,3 +44,9 @@
   * Принимает стороны `a`, `b`, `c`, возвращает периметр треугольника.
   * Формула: `P = a + b + c`
   * Пример вызова: `perimeter(3, 4, 5)` -> `12`
+
+
+## История изменений
+* `5a7cfe1` (HEAD -> main, origin/main) markdown readme changes
+* `9f5ab4c` initial commit
+* `cf61765` geometric lib copied
