@@ -177,6 +177,10 @@ print(perimeter(3, 4, 5))  # 12
 
 
 ## История изменений
-* `5a7cfe1` (HEAD -> main, origin/main) markdown readme changes
+* `8650c4d` (HEAD -> main, origin/main) slop removed
+* `fc962eb` fixed md
+* `695651b` markdown cppreference
+* `303b84e` final commit
+* `5a7cfe1` markdown readme changes
 * `9f5ab4c` initial commit
 * `cf61765` geometric lib copied
